@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/fpgatechsolution/FAB-TECH-A7/blob/master/img/logo.png)
+     ![alt text](https://github.com/fpgatechsolution/FAB-TECH-A7/blob/master/img/logo.png)
 
 ![alt text](https://github.com/fpgatechsolution/FAB-TECH-A7/blob/master/img/IMG1.jpg)
 
