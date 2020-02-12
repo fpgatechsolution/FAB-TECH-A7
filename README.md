@@ -1,4 +1,6 @@
 
+![alt text](https://github.com/fpgatechsolution/FAB-TECH-A7/blob/master/img/logo.png)
+
 ![alt text](https://github.com/fpgatechsolution/FAB-TECH-A7/blob/master/img/IMG1.jpg)
 
 
@@ -6,7 +8,8 @@
 # Introduction
 
 Fab-Tech-A7 is an easy to use FPGA Development board featuring Artix 7 FPGA (XC7A35T – CFG324 package) with FTDI’s FT2232H Dual-Channel USB device, which support Xilinx Vivado, SDK & Vitis to program FPGA. It is specially designed for the development and integration of FPGA based accelerated features to other designs. This board works with USB power however provision is given for external 5V power supply
-Note: This FPGA Development board is fully compatible with Vivado, EDK, SDK, Vitis, System Generator and ChipscopePro Tools at ease with on-board USB JTAG Interface.
+
+## Note: This FPGA Development board is fully compatible with Vivado, EDK, SDK, Vitis, System Generator and ChipscopePro Tools at ease with on-board USB JTAG Interface.
 
 # Features
 	Device: Xilinx Artix 7 FPGA (XC7A35T- CFG324)
